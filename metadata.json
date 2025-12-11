@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SIMRS AI Agent Simulator",
+  "description": "A comprehensive simulation of a Hospital Management Information System (SIMRS) using a Multi-Agent AI architecture. Features a Central Hub router and four specialized sub-agents for Registration, EMR, Billing, and Appointments.",
+  "requestFramePermissions": []
+}
